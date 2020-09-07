@@ -15,3 +15,9 @@ Für die Nutzung dieser Software wird eine Installation von Python 3.x benötigt
 * numpy (1.18.1)
 * scipy (1.4.1)
 * sympy (1.5.1)
+
+## Lizenzen
+
+Die hier zur Verfügung gestellten Programme sind unter eine GNU Lizenz verfügbar (siehe Datei LICENSE).
+
+Das Tool `convtool.py`wurde übernommen von [Stackoverflow](from convtool import * ) und steht unter einer [CC BY-SA 3.0](CC BY-SA 3.0) Lizenz.
