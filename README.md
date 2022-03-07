@@ -1,4 +1,4 @@
-# SWPrak-2020
+# SWPrak-2022
 
 **Author:** Jörn Behrens (joern.behrens@uni-hamburg.de)
 
